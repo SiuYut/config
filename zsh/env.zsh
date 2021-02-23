@@ -1,5 +1,5 @@
 
 # vagrant configuration 
-export VAGRANT_HOME=~/Repo/vagrant.d
+#export VAGRANT_HOME=~/Repo/vagrant.d
 # minikube configuration
-export MINIKUBE_HOME=~/Repo/
+#export MINIKUBE_HOME=~/Repo/

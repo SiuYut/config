@@ -115,6 +115,6 @@ HISTSIZE=10000
 SAVEHIST=10000
 HISTFILE=$HOME/.cache/zsh/history
 
-source $HOME/.config/zsh/aliases.zsh
+source $HOME/.config/zsh/alias.zsh
 source $HOME/.config/zsh/env.zsh
 source $HOME/.config/zsh/autocompletion.zsh

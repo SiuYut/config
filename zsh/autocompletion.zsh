@@ -1,4 +1,4 @@
 # kubectl autocompletion
-source <(kubectl completion zsh)
+#source <(kubectl completion zsh)
 # minikube autocompletion
-source <(minikube completion zsh)
+#source <(minikube completion zsh)
